@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a8c22982.css",
+    "main.js": "/static/js/main.3d739da6.js",
+    "static/media/kho.png": "/static/media/kho.a35e3c945e64f12818c8.png",
+    "static/media/KTMU.png": "/static/media/KTMU.a0fd163f93c4b54b9803.png",
+    "static/media/ecole detat major.png": "/static/media/ecole detat major.5275136b6112afaad1af.png",
+    "static/media/Marble.png": "/static/media/Marble.9477e43b6f4ed602afc2.png",
+    "static/media/FuAk.png": "/static/media/FuAk.229dc9a7d92466974813.png",
+    "static/media/Fetch card.png": "/static/media/Fetch card.acf0f0e8f5a4f6a2c216.png",
+    "static/media/photo.jpg": "/static/media/photo.c2a9c16c9dff252f3644.jpg",
+    "static/media/LoanCalculator.png": "/static/media/LoanCalculator.e0becadaae8f1ed9bbc6.png",
+    "index.html": "/index.html",
+    "static/media/marker.svg": "/static/media/marker.b95e0f65af2adbd988b823667bd9f400.svg",
+    "static/media/iconmonstr-menu-1.svg": "/static/media/iconmonstr-menu-1.de851be058c3f3a1aa582196c2c1fc3b.svg",
+    "main.a8c22982.css.map": "/static/css/main.a8c22982.css.map",
+    "main.3d739da6.js.map": "/static/js/main.3d739da6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8c22982.css",
+    "static/js/main.3d739da6.js"
+  ]
+}
